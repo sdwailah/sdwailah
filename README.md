@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Salem
-- 👀 I’m interested in ReactJs NodeJs Java
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ReactJs and AI
+- 👀 I’m a Python and Java Developer
+- 🌱 I’m very interesting in AI and ML
+- 💞️ I’m looking to use AI in my Project
 - 📫  reach me on Twitter @salem_dwailah
 
 <!---
